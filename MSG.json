@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "version": "1.0.0",
+      "text": "Eclipse AntiVirus is out of support for Windows 11, Please use microsoft defender.",
+      "enabled": true
+    },
+    {
+      "version": "1.1.0",
+      "text": "Eclipse Antivirus now supports optional login.",
+      "enabled": false
+    }
+  ]
+}
